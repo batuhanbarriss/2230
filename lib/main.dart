@@ -79,7 +79,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
             label: 'Mesajlar',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.bookmark_heart_rounded),
+            icon: Icon(Icons.favorite_border_rounded),
             label: 'Planlar',
           ),
         ],
