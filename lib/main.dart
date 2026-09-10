@@ -4,8 +4,8 @@ import 'package:image_picker/image_picker.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 // SUPABASE BİLGİLERİNİ BURAYA GİR
-const String supabaseUrl = 'YOUR_SUPABASE_PROJECT_URL';
-const String supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
+const String supabaseUrl = 'https://vwghjmvuhzolmsijencv.supabase.co/rest/v1/';
+const String supabaseAnonKey = 'sb_publishable_TSrA-xDSHjJlFooXTfVjFg_0yS5llif';
 
 // Giriş yapan kullanıcının adı
 const String currentUserName = 'Batuhan';
